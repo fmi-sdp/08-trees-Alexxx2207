@@ -1,0 +1,3 @@
+D:/CS/2 Year/SDP/Seminars/tree/build/CMakeFiles/Trees.dir
+D:/CS/2 Year/SDP/Seminars/tree/build/CMakeFiles/edit_cache.dir
+D:/CS/2 Year/SDP/Seminars/tree/build/CMakeFiles/rebuild_cache.dir
